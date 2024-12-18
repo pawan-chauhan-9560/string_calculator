@@ -1,0 +1,24 @@
+{
+  "name": "string-calculator",
+  "version": "1.0.0",
+  "description": "String calculator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pawan-chauhan-9560/string-calculator.git"
+  },
+  "author": "Pawan Chauhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pawan-chauhan-9560/string-calculator/issues"
+  },
+  "homepage": "https://github.com/pawan-chauhan-9560/string-calculator#readme",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3"
+  }
+}
